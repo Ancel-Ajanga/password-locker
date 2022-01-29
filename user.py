@@ -13,3 +13,5 @@ class User:
         self.password = password
 
 #########save multiple users#########
+  def save_user(self):
+        User.user_list.append(self)
