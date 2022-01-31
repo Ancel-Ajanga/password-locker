@@ -43,3 +43,11 @@ def create_credentials(account, email, passlock):
     '''
     new_cred = Credentials(account, email, passlock)
     return new_cred
+
+       ###save credential#######
+
+def save_cred(cred):
+    '''
+    save credentials
+    '''
+    cred.save_cred()
