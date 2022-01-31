@@ -69,3 +69,16 @@ def find_account(account):
     method to search for an account
     '''
     return Credentials.find_account(account)
+
+
+     #######Delete credentials######
+
+def delete_cred(account):
+    '''
+    method to delete account
+    '''
+    account.delete_cred()
+
+
+
+def main():
