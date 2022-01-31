@@ -55,7 +55,7 @@ Use this link to see the web-page
 Contact Information
 Email-(duncanlewis545@gmail.com)
 
-Github user name -Ajanga Ancel
+Github user name -Ancel-Ajanga
 
 License
 MIT License
