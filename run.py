@@ -51,3 +51,12 @@ def save_cred(cred):
     save credentials
     '''
     cred.save_cred()
+
+
+    ######dispaly credential#######
+
+def display_cred():
+    '''
+    method to display all the saved credentials
+    '''
+    return Credentials.display_cred()
