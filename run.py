@@ -60,3 +60,12 @@ def display_cred():
     method to display all the saved credentials
     '''
     return Credentials.display_cred()
+
+
+######search credentials#######
+
+def find_account(account):
+    '''
+    method to search for an account
+    '''
+    return Credentials.find_account(account)
